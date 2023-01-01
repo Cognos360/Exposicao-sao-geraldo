@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Exposição Igreja São Geraldo
+
+## Media
+
+### Title
+panorama_581E4AD9_5652_61B8_41B0_9006132417E1.label = IMG_20221216_155846_00_merged-denoise-clear
+panorama_5A1448F2_5652_2189_41BC_35148CE95124.label = IMG_20221216_160002_00_merged-denoise-clear
+panorama_5A150534_5652_6088_41D2_BD1E8A9ADA2D.label = IMG_20221216_160410_00_merged-denoise-clear
+panorama_5A155659_5652_20B8_41B5_527959C1E80A.label = IMG_20221216_160709_00_merged-denoise-clear
+panorama_5A15651D_5652_20B8_41B7_46548BA29953.label = IMG_20221216_160025_00_merged-denoise-clear
+panorama_5A1585B4_5652_6388_41CA_0CCF926D033D.label = IMG_20221216_160631_00_merged-denoise-clear
+panorama_5A15C59C_5652_23B8_41AF_19305176C493.label = IMG_20221216_160245_00_merged-denoise-clear
+panorama_5A15D6DA_5652_E1B8_419B_651AF1F028C4.label = IMG_20221216_160124_00_merged-denoise-clear
+panorama_5A15E621_5652_E08B_41C6_EFC90C341295.label = IMG_20221216_160155_00_merged-denoise-clear
+panorama_5A15F2BA_5652_21F8_41BC_D0FB6A034114.label = IMG_20221216_160310_00_merged-denoise-clear
