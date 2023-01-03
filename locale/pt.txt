@@ -20,3 +20,8 @@ panorama_5A15C59C_5652_23B8_41AF_19305176C493.label = IMG_20221216_160245_00_mer
 panorama_5A15D6DA_5652_E1B8_419B_651AF1F028C4.label = IMG_20221216_160124_00_merged-denoise-clear
 panorama_5A15E621_5652_E08B_41C6_EFC90C341295.label = IMG_20221216_160155_00_merged-denoise-clear
 panorama_5A15F2BA_5652_21F8_41BC_D0FB6A034114.label = IMG_20221216_160310_00_merged-denoise-clear
+
+## Action
+
+### URL
+LinkBehaviour_6495CB0B_7936_0310_41B7_8E2E9E4AF0A4.source = https://api.whatsapp.com/send?phone=5538998921901&text=Ol%C3%A1.%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20da%20Exposi%C3%A7%C3%A3o%20Bas%C3%ADlica%20de%20S%C3%A3o%20Geraldo.%20Gostaria%20de%20saber%20mais%20sobre%20este%20servi%C3%A7o.
